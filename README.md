@@ -5,8 +5,8 @@
 Python
 
 ## Cara running
-Buka CMD di folder yang sama dengan file dorxcl.py
-> python dorxcl.py
+1. Buka CMD di folder yang sama dengan file dorxcl.py
+2. > python dorxcl.py
 
 ### Info tambahan
 <img width="291" alt="Screenshot_35" src="https://github.com/maldiharyojudanto/dorxcl/assets/76139419/38a72e59-1f75-421c-8d16-5c6b045ee4da">
